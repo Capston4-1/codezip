@@ -1,0 +1,4 @@
+mysql -uroot -p!qazwsx219803 ev<kk.sql>ss.txt
+저장할 수 있음.
+mysql -uroot -p!qazwsx219803 ev<kk.sql
+실행할 수 있음.
