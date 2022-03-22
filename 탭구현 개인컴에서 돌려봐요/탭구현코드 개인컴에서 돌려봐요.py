@@ -4,6 +4,9 @@ import matplotlib.pyplot as plt
 import pymysql
 
 
+##!!!!!!!Before Run!!!!!!!!!!
+#FromDb 함수에서 pymysql.connect-> 자신의 db user와 passwd로 수정해주세욥!
+
 # Main 화면 구성 - 4개의 프레임
 # 1. 숫자 n을 입력하면 최근 n일 동안의 전체 사용률 추이 검색
 # 2. 지금 시점에서 대기, 충전중, 통신두절, 고장 충전기 비율 조회
